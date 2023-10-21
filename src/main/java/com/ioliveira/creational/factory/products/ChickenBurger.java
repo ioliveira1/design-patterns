@@ -1,4 +1,4 @@
-package com.ioliveira.creational.factory.product;
+package com.ioliveira.creational.factory.products;
 
 public class ChickenBurger implements Burger {
 

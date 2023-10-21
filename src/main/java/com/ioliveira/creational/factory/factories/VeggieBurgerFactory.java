@@ -1,7 +1,7 @@
 package com.ioliveira.creational.factory.factories;
 
-import com.ioliveira.creational.factory.product.Burger;
-import com.ioliveira.creational.factory.product.VeggieBurger;
+import com.ioliveira.creational.factory.products.Burger;
+import com.ioliveira.creational.factory.products.VeggieBurger;
 
 public class VeggieBurgerFactory extends BurgerFactory {
     @Override
