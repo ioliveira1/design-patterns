@@ -3,6 +3,6 @@
 
 ## Behavioral Design Pattern
 
-Permite transformar comportamentos específicos em objetos independentes chamados handlers.
+Transforma uma solicitação ou comportamento em um objeto independente que contém tudo sobre essa solicitação.
 
-Após receber uma requisição, essa requisição será passada para uma cadeia de handlers, onde cada um irá decidir se processa a requisição ou passa para o próximo handler dessa cadeia.
+Encapsula toda a informação necessária para performar uma ação ou disparar um evento. 
